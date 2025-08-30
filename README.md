@@ -1,4 +1,4 @@
-## ShoppingApp -> [App Preview](#app-preview)
+# ShoppingApp -> [App Preview](#app-preview)
 
 ## Features
 - List products.
